@@ -1,6 +1,8 @@
 # Developing-Data-Products
 This is the project assignment for Week 3 of the "Coursera" course "Developing Data Products"(part of the Data Science Specialization). 
 
+The project can be viewed: <a href="https://vassitar.github.io/Developing-Data-Products/#1"> here </a>.
+
 <b> Instructions </b>:
 Create a web page presentation using R Markdown that features a plot created with Plotly. Host your webpage on either GitHub Pages, RPubs, or NeoCities. Your webpage must contain the date that you created the document, and it must contain a plot created with Plotly. We would love to see you show off your creativity!
 
